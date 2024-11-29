@@ -1,0 +1,2 @@
+var e=document.querySelectorAll("input"),l=!0,t=!1,r=void 0;try{for(var a,n=e[Symbol.iterator]();!(l=(a=n.next()).done);l=!0){var o=a.value,c=document.createElement("label");c.className="field-label",c.htmlFor=o.id,c.textContent=o.name.toUpperCase(),o.placeholder=o.name[0].toUpperCase()+o.name.slice(1),o.before(c)}}catch(e){t=!0,r=e}finally{try{l||null==n.return||n.return()}finally{if(t)throw r}}
+//# sourceMappingURL=index.36a25a79.js.map
